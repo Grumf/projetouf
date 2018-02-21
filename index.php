@@ -1,1 +1,2 @@
-<? echo "bite" ?>
+<? echo "bite";
+echo "pute"; ?>
